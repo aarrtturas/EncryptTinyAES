@@ -4,11 +4,11 @@
 
 EncryptTinyAES 256 Text Encrypt & Decrypt (Offline & Secure)
 
-# Short Description 1
+# Short Description
 
 Encrypt and decrypt text securely with AES-256 + HMAC-SHA256. Minimal app, open-source, offline, no ads, no tracking. Everything happens locally on your device — no data ever leaves it. Low visability to protect from shoulder-surfing.
 
-# Short Description 2
+# More details
 
 Encrypt and decrypt text securely with AES-256. Minimal app, open-source, offline, no ads, no tracking. Everything happens locally on your device — no data ever leaves it.
 
