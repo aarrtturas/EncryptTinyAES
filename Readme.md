@@ -2,7 +2,7 @@
 
 # Title
 
-EncryptTiny256 Text Encrypt & Decrypt (Offline & Secure)
+EncryptTinyAES 256 Text Encrypt & Decrypt (Offline & Secure)
 
 # Short Description 1
 
@@ -24,6 +24,4 @@ Encrypt and decrypt text securely with AES-256. Minimal app, open-source, offlin
 
 🔐 Strong password enforcement — only passwords meeting strict security requirements (length ≥ 16, mix of upper/lowercase, numbers and symbols) are accepted.
 
-🧩 Open and verifiable — the full source code is tiny and easy to review on GitHub (coming soon):
-
-https://github.com/aarrtturas/EncryptTiny256.git
+🧩 Open and verifiable — the full source code is tiny and easy to review on GitHub (coming soon)
